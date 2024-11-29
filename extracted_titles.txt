@@ -1,0 +1,20 @@
+1 Perspectives from a Comprehensive Evaluation of Reconstruction-based Anomaly Detection in Industrial Control Systems 1
+2 1 Introduction 1
+2 2 Background and Related Work 3
+3 2.1 Industrial Control Systems: Threats and Defenses 3
+3 2.2 ML Model Architectures for ICS Anomaly Detection 5
+3 2.3 Traditional Anomaly Detection Metrics 5
+3 2.4 Publicly Available ICS Datasets 5
+3 2.5 Prior Work in ICS Anomaly Detection 6
+2 3 Reconstruction-based ICS Anomaly Detection Process 6
+2 4 Comparing ML Model Architectures and Datasets for ICS Anomaly Detection 8
+3 4.1 Experiment Setup 8
+3 4.2 Optimization Results 10
+2 5 Tuning and Evaluating with Range-based Metrics 11
+3 5.1 Issues with the Point-F1 Score 11
+3 5.2 Range-based Performance Metrics 12
+3 5.3 Using Range-based Metrics to Tune Detection Hyperparameters 14
+3 5.4 Using Range-based Metrics to Select Model Hyperparameters 15
+2 6 Conclusion 17
+2 A Key Findings in the Optimization Process 17
+2 References 19
