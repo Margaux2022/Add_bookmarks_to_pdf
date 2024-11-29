@@ -18,8 +18,7 @@
 
 您可以通过以下命令安装所需的库：
 
-```bash
-pip install PyMuPDF PyPDF2
+'pip install PyMuPDF PyPDF2'
 
 ## 使用方法
 
