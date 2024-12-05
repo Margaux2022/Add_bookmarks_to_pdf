@@ -18,7 +18,7 @@
 
 您可以通过以下命令安装所需的库：
 
-'''
+''' 
 pip install PyMuPDF PyPDF2
 '''
 
@@ -27,7 +27,7 @@ pip install PyMuPDF PyPDF2
 将要处理的PDF文件放在脚本目录下，并命名为 1.pdf（可以根据需要修改脚本中的文件名）。
 运行脚本：
 
-'''
+''' 
 python main.py
 '''
  
